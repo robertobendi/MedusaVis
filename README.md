@@ -16,14 +16,6 @@ MedusaVis is a robust web-based tool for visualizing JSON-LD data as interactive
 
 - **Responsive Design**: MedusaVis is optimized for various screen sizes, ensuring a smooth user experience across different devices.
 
-## Getting Started
-
-To get started with MedusaVis, follow these steps:
-
-1. Open the `index.html` file in your web browser.
-2. Click on the "Choose File" button to select your JSON-LD data file.
-3. MedusaVis will automatically visualize your data as an interactive network graph.
-
 ## Usage
 
 - **File Input**: Use the "Choose File" button to upload your JSON-LD file.
